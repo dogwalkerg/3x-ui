@@ -1,6 +1,6 @@
 [English](/README.md) | [中文](/README.zh_CN.md) | [Español](/README.es_ES.md) | [Русский](/README.ru_RU.md)
 
-# https://www.youtube.com/watch?v=I7pyD0U-dtY
+<iframe width="720" height="405" src="https://www.youtube.com/embed/I7pyD0U-dtY" title="2024年谷歌云搭建最新3X-UI面板科学上网|一键脚本搭建v2ray教程|可视化xray面板|更加安全|操作简单、详细、管理方便、10W+的速度、丝滑般的体验，新手上车新体验#一瓶奶油" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./media/3x-ui-dark.png">
